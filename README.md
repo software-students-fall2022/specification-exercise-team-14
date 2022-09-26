@@ -4,7 +4,10 @@
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
 ## Team members
-[Tim Chen](https://github.com/cty288)
+[Tim Chen](https://github.com/cty288)</br>
+[Dixit Timilsina](https:://github.com/dt1930)
+
+
 
 ## Stakeholders
 During the brainstorming phrase, we interviewed two different types of stakeholders: college students and gamers
@@ -19,6 +22,7 @@ During the brainstorming phrase, we interviewed two different types of stakehold
        - **The stakeholder / Problem:** the end user is a sophomore at NYU Tisch School of the Arts. To fulfill their gen-ed requirements, they need to complete at least two humanities courses. But it is often difficult for the target user to determine whether a certain course meets their graduation requirements (especially for humanities courses). For example, some courses may "sound like" a humanity course, but actually are not.
 
         - **The Goal:**  Like the previous goal, the user wants a college-specific platform that can suggest suitable courses based on their majors, such as “popular gen-ed courses taken by your classmates”
+        
 2.  A mobile school card
     - **End User 3 / Problem:** The target user is a sophomore studying in East China University of Political Science and Law.  At the target user’s university, their school card for entering buildings and cards for dining halls are different. Besides, they need to present a “Covid pass” when entering buildings, which is installed in a mobile app. 
 
@@ -28,6 +32,17 @@ During the brainstorming phrase, we interviewed two different types of stakehold
     - **End User 4 / Problem:** The target user is a commuter student at Boston College. Since his rent expires every six months, he often moves to new places. Although Google Map can navigate him to most places, he still gets lost indoors often as those software do not provide indoor navigation
       - The End user 1 shares a similar problem, but their problem is on-campus navigation (since their campus are closed campus and most navigation software does not provide navigation for their campus). 
     - **The Goal:**  The target user wants a mobile indoor navigation software that can take them to popular public places. He hopes that the software will also provide information about real-time events or future activities at that venue, as well as other users' comments on the internal areas of the that venue.
+
+4.  Study away student guide
+    - **End user 5 / Problem:**
+        - **The stakeholder / Problem:** the end user is a study away student from NYU Abu Dhabi who's currently in New York for the study away semester and is willing to meet people from his country Gambia. It is difficult for him to connect to any students who are also from Gambia and are studying in NYU, NY.
+
+        - **The Goal:** The user wants an app or a web based platform that can help study away students connect to other people, mainly from their countries of orign or where they have lived most of their lives.
+5.  Rental/flat sharing/sublettling platform
+    - **End user 6 / Problem:**
+        - **The stakeholder / Problem:** the end user is an international student who is struggling to find a suitable flatmate. He is a master's student looking for a flatmate under certain budget and some living preferences.
+
+        - **The Goal:** The user wants a self-sufficient platform where he can find other people who are searching for flatmates. Instead of having to post in reddit or facebook, the user wants a specific app where he can update all his living preferences and budget and get/find a good match for him.
 
 ### Gamers
 1. Mobile cloud gaming
