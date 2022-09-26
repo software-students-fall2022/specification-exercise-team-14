@@ -6,6 +6,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 [Tim Chen](https://github.com/cty288)</br>
 [Dixit Timilsina](https:://github.com/dt1930)
+[Lucy Kocharian](https://github.com/Lkochar19)
 
 
 
@@ -61,6 +62,19 @@ During the brainstorming phrase, we interviewed two different types of stakehold
    - **The Goals:**
       1.  The target user wants to have a game recommendation software for mobile platforms; this software can be linked with their game library platform and recommend games based on their preferences in the game library. 
       2.  The target user also wants the software to become a social circle for gamers, that is, it will use the reviews and preferences from real players to recommend games instead of from game publishers. At the same time, they hope that the user experience of the software can be user-friendly to those who use their fragmented time to find games.
+
+### Food Cart Vendors
+1. Location Map for Customers
+   - **Problem**: (Moving) food cart vendors have noticed it’s difficult for people to find their cart when they move locations, as sometimes they move around and ‘park’ in different locations.
+   - **Goal**: The target user wants to be able to have a platform where customers can see where the Food Cart is on a certain day + the hours, etc.
+   
+2. Inter-Cart Communication Platform
+   - **Problem**: Carts would like to be able to communicate with neighboring / other carts in the area, because sometimes competition is increased when multiple carts of the same food type are parked in the nearby vicinity.
+   - **Goal**: The target user would like to be able to have a platform where it is able to communicate with local vendors / carts, to assess needs and competition. 
+
+3. Cart Navigation Software
+   - **Problem**: Target user sometimes gets lost trying to find a place to park carts in a new area. 
+   - **Goal**: A map of all the carts in an area, for the cart vendor to then be able to navigate their way to an empty space.
 
 
 
