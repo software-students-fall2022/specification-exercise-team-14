@@ -5,8 +5,8 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 [Tim Chen](https://github.com/cty288)</br>
-[Dixit Timilsina](https:://github.com/dt1930)
-[Lucy Kocharian](https://github.com/Lkochar19)
+[Dixit Timilsina](https:://github.com/dt1930)</br>
+[Lucy Kocharian](https://github.com/Lkochar19)</br>
 [Otis Lu](https://github.com/OtisL99)
 
 
