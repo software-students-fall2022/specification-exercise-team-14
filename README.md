@@ -7,7 +7,7 @@ A little exercise to get started with the specification phase of the software de
 [Tim Chen](https://github.com/cty288)</br>
 [Dixit Timilsina](https:://github.com/dt1930)
 [Lucy Kocharian](https://github.com/Lkochar19)
-
+[Otis Lu](https://github.com/OtisL99)
 
 
 ## Stakeholders
@@ -77,15 +77,21 @@ During the brainstorming phrase, we interviewed two different types of stakehold
    - **Goal**: A map of all the carts in an area, for the cart vendor to then be able to navigate their way to an empty space.
 
 
+### International students
 
+1.Apartment sublease software
+- **End User:** The target user is an international student of NYU.
 
+- **The Problems:** Since his apartment contract is one year, he needs to sublet the apartment to avoid losses when he returns to China. He can only release sublease information through apartment intermediaries and social media, which leads to that he needs to pay a lot of intermediary fees to the intermediary, or he needs to wait for people who see social media to contact him.
 
+- **The Goal:** Target users want a software for international students to rent apartments and sublet apartment.
 
+2. Used furniture resale software
+- **End User:** The target user is an international student of NYU.
 
+- **The Problems:** He moves apartment once a year, and there is no furniture in the newly moved apartment, so he needs to buy new or second-hand furniture. He has to add a lot of group chats on social media because there are many international students selling used furniture in group chats.
 
-
-
-
+- **The Goal:** Target users want a software for international students to buy or sell second-hand furniture. He hopes that the software will also provide any second-hand items for sale other than furniture.
 
 
 
