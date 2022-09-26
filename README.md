@@ -31,8 +31,8 @@ During the brainstorming phrase, we interviewed two different types of stakehold
 
 ### Gamers
 1. Mobile cloud gaming
-  - **End User 5 / Problem:** The target user’s gaming device does not have enough performance to play the games they want. And although there are cloud gaming services, most of them are targeted at computer users. However, the target user is too busy in their daily life to have blocks of hours to play computer games
-  - **The Goal:**  The target user want to use cloud game services to experience computer games on mobile platforms in their spare time. Meanwhile, this service is not just a simple "game launcher", but it should also be used as a platform for cloud game purchases
+     - **End User 5 / Problem:** The target user’s gaming device does not have enough performance to play the games they want. And although there are cloud gaming services, most of them are targeted at computer users. However, the target user is too busy in their daily life to have blocks of hours to play computer games
+     - **The Goal:**  The target user want to use cloud game services to experience computer games on mobile platforms in their spare time. Meanwhile, this service is not just a simple "game launcher", but it should also be used as a platform for cloud game purchases
   
 2. Game Social Group Platform (provided by the same person above)
      - **End User 5 / Problem:** The target user also plays a lot of niche mobile games. Therefore, it is usually difficult for her to find a game social circle for a specific game, let alone find some long-term online game playmates. Although most gaming social groups use software such as Discord as a platform, finding the corresponding group link on the Internet is itself a difficult task.
