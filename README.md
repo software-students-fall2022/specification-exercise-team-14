@@ -99,13 +99,6 @@ During the brainstorming phrase, we interviewed three different types of stakeho
 <br/>
 <br/>
 
-
-
-
-
-
-
-
 ## Product Vision Statement
 Our program is dedicated to providing an integrated solution to the major challenges faced by most college students who need to rent apartments by integrating peer-to-peer renting process, custom roommate matching, and second-hand furniture selling/purchasing
 
@@ -113,12 +106,9 @@ Our program is dedicated to providing an integrated solution to the major challe
 - As a college student who has already rent an apartment, I want the system to be able to take my personal routine, habits, and preferences into account so that I can live with people who share similar habits, foods, daily routine, majors, etc. to avoid conflicts.
 - As a college student who has already rent an apartment, I want to have the ability to choose my roommates by myself, so that I can have less uncertainty on my future roommate's habits and preferences
 - As a college student who has already rent an apartment, I want to be able to communicate with my future roommates before we officially confirm, so that I can gain more insight into my roommate's personal preferences to determine if they are really suitable for living with me for the next couple of years.
-<<<<<<< HEAD
 - As a college student who has already rented an apartment, I want to purchase furniture for my new apartment.
 - As a college graduating student who is leaving the apartment, I want to sell my old furniture and find a buyer for the furniture.
 
-=======
->>>>>>> 7cbdd123792325b53e19a0da88226aae5caa79f0
 
 ## Activity Diagrams
 
