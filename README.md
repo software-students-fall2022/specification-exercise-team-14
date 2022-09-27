@@ -83,6 +83,7 @@ During the brainstorming phrase, we interviewed three different types of stakeho
 <br/>
 <br/>
 <br/>
+
 ### Food Cart Vendors
 1. Location Map for Customers
    - **Problem**: (Moving) food cart vendors have noticed it’s difficult for people to find their cart when they move locations, as sometimes they move around and ‘park’ in different locations.
@@ -106,12 +107,12 @@ During the brainstorming phrase, we interviewed three different types of stakeho
 
 
 ## Product Vision Statement
-
-See instructions. Delete this line and place your Product Vision Statement here.
+Our program is dedicated to providing an integrated solution to the major challenges faced by most college students who need to rent apartments by integrating peer-to-peer renting process, custom roommate matching, and second-hand furniture selling/purchasing
 
 ## User Requirements
-
-See instructions. Delete this line and place a list of your User Stories here.
+- As a college student who has already rent an apartment, I want the system to be able to take my personal routine, habits, and preferences into account so that I can live with people who share similar habits, foods, daily routine, majors, etc. to avoid conflicts.
+- As a college student who has already rent an apartment, I want to have the ability to choose my roommates by myself, so that I can have less uncertainty on my future roommate's habits and preferences
+- As a college student who has already rent an apartment, I want to be able to communicate with my future roommates before we officially confirm, so that I can gain more insight into my roommate's personal preferences to determine if they are really suitable for living with me for the next couple of years.
 
 ## Activity Diagrams
 
