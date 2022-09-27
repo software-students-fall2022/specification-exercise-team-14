@@ -11,7 +11,7 @@ A little exercise to get started with the specification phase of the software de
 
 
 ## Stakeholders
-During the brainstorming phrase, we interviewed two different types of stakeholders: college students and gamers
+During the brainstorming phrase, we interviewed three different types of stakeholders: college students, gamers, and food cart vendors
 
 ### College Students
 1. Course Evluation / Sharing Platform:
@@ -44,25 +44,45 @@ During the brainstorming phrase, we interviewed two different types of stakehold
         - **The stakeholder / Problem:** the end user is an international student who is struggling to find a suitable flatmate. He is a master's student looking for a flatmate under certain budget and some living preferences.
 
         - **The Goal:** The user wants a self-sufficient platform where he can find other people who are searching for flatmates. Instead of having to post in reddit or facebook, the user wants a specific app where he can update all his living preferences and budget and get/find a good match for him.
+  
+6. Apartment sublease software
+     - **End User 7:** The target user is an international student of NYU.
+     - **The Problem:** Since his apartment contract is one year, he needs to sublet the apartment to avoid losses when he returns to China. He can only release sublease information through apartment intermediaries and social media, which leads to that he needs to pay a lot of intermediary fees to the intermediary, or he needs to wait for people who see social media to contact him.
+
+   - **The Goal:** Target users want a software for international students to rent apartments and sublet apartment.
+
+
+7. Used furniture resale software
+   - **End User 8:** The target user is an international student of NYU.
+
+   - **The Problems:** He moves apartment once a year, and there is no furniture in the newly moved apartment, so he needs to buy new or second-hand furniture. He has to add a lot of group chats on social media because there are many international students selling used furniture in group chats.
+
+   - **The Goal:** Target users want a software for international students to buy or sell second-hand furniture. He hopes that the software will also provide any second-hand items for sale other than furniture.
+
+<br/>
+<br/>
+<br/>
 
 ### Gamers
 1. Mobile cloud gaming
-     - **End User 5 / Problem:** The target user’s gaming device does not have enough performance to play the games they want. And although there are cloud gaming services, most of them are targeted at computer users. However, the target user is too busy in their daily life to have blocks of hours to play computer games
+     - **End User 9 / Problem:** The target user’s gaming device does not have enough performance to play the games they want. And although there are cloud gaming services, most of them are targeted at computer users. However, the target user is too busy in their daily life to have blocks of hours to play computer games
      - **The Goal:**  The target user want to use cloud game services to experience computer games on mobile platforms in their spare time. Meanwhile, this service is not just a simple "game launcher", but it should also be used as a platform for cloud game purchases
   
 2. Game Social Group Platform (provided by the same person above)
-     - **End User 5 / Problem:** The target user also plays a lot of niche mobile games. Therefore, it is usually difficult for her to find a game social circle for a specific game, let alone find some long-term online game playmates. Although most gaming social groups use software such as Discord as a platform, finding the corresponding group link on the Internet is itself a difficult task.
+     - **End User 9 / Problem:** The target user also plays a lot of niche mobile games. Therefore, it is usually difficult for her to find a game social circle for a specific game, let alone find some long-term online game playmates. Although most gaming social groups use software such as Discord as a platform, finding the corresponding group link on the Internet is itself a difficult task.
      - **The Goal:** The target user wants a platform that brings together the social groups of different gamers. She wants players to create and manage their game's social circle. In addition, she also hopes that the platform can provide more niche game recommendations for players like her.
   
 3. Mobile Game Recommendation Platform
-   - **End User 6:** The target end user is a student studying Game Design at NYU Game Center.
+   - **End User 10:** The target end user is a student studying Game Design at NYU Game Center.
    - **The Problems:**
      1. The target user is a game enthusiast who has played over a hundred computer games, but he is now in a "game shortage".
      2. At the same time, the target user is also struggling to find a convenient game recommendation platform -- because most game stores and recommendation platforms (such as Steam) are currently unfriendly to mobile users, so they have to use computers to find games.
    - **The Goals:**
       1.  The target user wants to have a game recommendation software for mobile platforms; this software can be linked with their game library platform and recommend games based on their preferences in the game library. 
       2.  The target user also wants the software to become a social circle for gamers, that is, it will use the reviews and preferences from real players to recommend games instead of from game publishers. At the same time, they hope that the user experience of the software can be user-friendly to those who use their fragmented time to find games.
-
+<br/>
+<br/>
+<br/>
 ### Food Cart Vendors
 1. Location Map for Customers
    - **Problem**: (Moving) food cart vendors have noticed it’s difficult for people to find their cart when they move locations, as sometimes they move around and ‘park’ in different locations.
@@ -75,23 +95,9 @@ During the brainstorming phrase, we interviewed two different types of stakehold
 3. Cart Navigation Software
    - **Problem**: Target user sometimes gets lost trying to find a place to park carts in a new area. 
    - **Goal**: A map of all the carts in an area, for the cart vendor to then be able to navigate their way to an empty space.
+<br/>
+<br/>
 
-
-### International students
-
-1.Apartment sublease software
-- **End User:** The target user is an international student of NYU.
-
-- **The Problems:** Since his apartment contract is one year, he needs to sublet the apartment to avoid losses when he returns to China. He can only release sublease information through apartment intermediaries and social media, which leads to that he needs to pay a lot of intermediary fees to the intermediary, or he needs to wait for people who see social media to contact him.
-
-- **The Goal:** Target users want a software for international students to rent apartments and sublet apartment.
-
-2. Used furniture resale software
-- **End User:** The target user is an international student of NYU.
-
-- **The Problems:** He moves apartment once a year, and there is no furniture in the newly moved apartment, so he needs to buy new or second-hand furniture. He has to add a lot of group chats on social media because there are many international students selling used furniture in group chats.
-
-- **The Goal:** Target users want a software for international students to buy or sell second-hand furniture. He hopes that the software will also provide any second-hand items for sale other than furniture.
 
 
 
