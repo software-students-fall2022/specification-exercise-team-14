@@ -72,6 +72,8 @@ Our program is dedicated to providing an integrated solution to the major challe
 - As a college student who has already rent an apartment, I want to be able to communicate with my future roommates before we officially confirm, so that I can gain more insight into my roommate's personal preferences to determine if they are really suitable for living with me for the next couple of years.
 - As a college student who has already rented an apartment, I want to be able to view a list of all available second-hand furniture so that I can purchase low-price furniture for my new apartment.
 - As a college graduating student who is leaving the apartment, I want to be able to sell my old furniture and find a buyer for the furniture.
+- As a transfer college student who doesn't know the area very well, I want to be able to be matched with a Roommate that fits my preferences and living habits.
+- As a college Freshman, I don't know anyone going to my school, so I want a safe, reliable platform that shows available apartments and potential roommates in the area.
 
 
 ## Activity Diagrams
