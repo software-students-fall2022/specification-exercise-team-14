@@ -67,13 +67,14 @@ A little exercise to get started with the specification phase of the software de
 Our program is dedicated to providing an integrated solution to the major challenges faced by most college students who need to rent apartments by integrating peer-to-peer renting process, custom roommate matching, and second-hand furniture selling/purchasing
 
 ## User Requirements
-- As a college student who has already rent an apartment, I want the system to be able to take my personal routine, habits, and preferences into account so that I can live with people who share similar habits, foods, daily routine, majors, etc. to avoid conflicts.
-- As a college student who has already rent an apartment, I want to have the ability to choose my roommates by myself, so that I can have less uncertainty on my future roommate's habits and preferences
-- As a college student who has already rent an apartment, I want to be able to communicate with my future roommates before we officially confirm, so that I can gain more insight into my roommate's personal preferences to determine if they are really suitable for living with me for the next couple of years.
-- As a college student who has already rented an apartment, I want to be able to view a list of all available second-hand furniture so that I can purchase low-price furniture for my new apartment.
-- As a college graduating student who is leaving the apartment, I want to be able to sell my old furniture and find a buyer for the furniture.
-- As a transfer college student who doesn't know the area very well, I want to be able to be matched with a Roommate that fits my preferences and living habits.
-- As a college Freshman, I don't know anyone going to my school, so I want a safe, reliable platform that shows available apartments and potential roommates in the area.
+1. As a college student who has already rent an apartment, I want the system to be able to take my personal routine, habits, and preferences into account so that I can live with people who share similar habits, foods, daily routine, majors, etc. to avoid conflicts.
+2. As a college student who has already rent an apartment, I want to have the ability to choose my roommates by myself, so that I can have less uncertainty on my future roommate's habits and preferences
+3. As a college student who has already rent an apartment, I want to be able to communicate with my future roommates before we officially confirm, so that I can gain more insight into my roommate's personal preferences to determine if they are really suitable for living with me for the next couple of years.
+4. As a college student who has already rented an apartment, I want to be able to view a list of all available second-hand furniture so that I can purchase low-price furniture for my new apartment.
+5. As a college graduating student who is leaving the apartment, I want to be able to sell my old furniture and find a buyer for the furniture.
+6. As a transfer college student who doesn't know the area very well, I want to be able to be matched with a Roommate that fits my preferences and living habits.
+7. As a college Freshman, I don't know anyone going to my school, so I want a safe, reliable platform that shows available apartments and potential roommates in the area.
+8. As a graduating college student moving back home, I want to be able to sell my furniture to other college students in a reliable and streamlined way, not through Facebook Marketplace.
 
 
 ## Activity Diagrams
