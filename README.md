@@ -75,6 +75,7 @@ Our program is dedicated to providing an integrated solution to the major challe
 6. As a transfer college student who doesn't know the area very well, I want to be able to be matched with a Roommate that fits my preferences and living habits.
 7. As a college Freshman, I don't know anyone going to my school, so I want a safe, reliable platform that shows available apartments and potential roommates in the area.
 8. As a graduating college student moving back home, I want to be able to sell my furniture to other college students in a reliable and streamlined way, not through Facebook Marketplace.
+9. As a college student who hasn't rent an apartment yet, I want to be able to advertise my personal information and perference so that my future roommates who share similar perferences will be able to contact with me.
 
 
 ## Activity Diagrams
