@@ -80,6 +80,6 @@ Our program is dedicated to providing an integrated solution to the major challe
 
 ## Activity Diagrams
 ### User Story 9:
-> As a college student who needs to find roommates for my apartment or who >needs to find an existing apartment with roommates, I want to be able to >advertise my personal information and perference so that my future roommates >who share similar perferences will be able to contact with me.
+> As a college student who needs to find roommates for my apartment or who  needs to find an existing apartment with roommates, I want to be able to  advertise my personal information and perference so that my future roommates who share similar perferences will be able to contact with me.
 
 ![Alt text](UML9.png?raw=true "Title")
