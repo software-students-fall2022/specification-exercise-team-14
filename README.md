@@ -56,7 +56,7 @@ Our program is dedicated to providing an integrated solution to the major challe
 3. As a college student who has already rent an apartment, I want to be able to communicate with my future roommates before we officially confirm, so that I can gain more insight into my roommate's personal preferences to determine if they are really suitable for living with me for the next couple of years.
 4. As a college student who has already rented an apartment, I want to be able to view a list of all available second-hand furniture so that I can purchase low-price furniture for my new apartment.
 5. As a college graduating student who is leaving the apartment, I want to be able to sell my old furniture and find a buyer for the furniture.
-6. As a college student who wants to rent an apartment by myself, I want to be able to contact the property owner directly so that we can communicate in a seamless and efficient way.
+6. As a college student who wants to rent an apartment by myself, I want to be able to find an apartment of the type I want, then contact the property owner directly and seamlessly so that I can have an efficient rental experience.
 7. As a college student who do not want to say in the dorm, I want to be able to rent an apartment in an end-to-end way, not through brokers or agents, to save unnecessary costs.
 8. As a college international student who travels back to home in summer, I want to sublease my apartment so that I can save some money when I was not living in my apartment
 9. As a college student studying abroad, I want to be able to sell my furniture to other college students in a reliable and streamlined way, not through Facebook Marketplace, for extra cash to use while I travel!
@@ -64,6 +64,11 @@ Our program is dedicated to providing an integrated solution to the major challe
 
 
 ## Activity Diagrams
+### User Story 6:
+> As a college student who wants to rent an apartment by myself, I want to be able to find an apartment of the type I want, then contact the property owner directly and seamlessly so that I can have an efficient rental experience.
+
+![Alt text](UML6.png?raw=true "Title")
+
 ### User Story 9:
 > As a college student who needs to find roommates for my apartment or who  needs to find an existing apartment with roommates, I want to be able to  advertise my personal information and perference so that my future roommates who share similar perferences will be able to contact with me.
 
