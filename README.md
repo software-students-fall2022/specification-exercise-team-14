@@ -74,4 +74,9 @@ Our program is dedicated to providing an integrated solution to the major challe
 ![Alt text](UML9.png?raw=true "Title")
 
 ## Wireframe + Clickable Prototype
+
+### Wireframe
 https://www.figma.com/file/TPnXfCEKdeMO6mxs3bBYqL/Wireframe?node-id=0%3A1
+
+### Clickable Prototype
+https://www.figma.com/proto/TPnXfCEKdeMO6mxs3bBYqL/Wireframe?node-id=2%3A4&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A4
