@@ -25,16 +25,15 @@ A little exercise to get started with the specification phase of the software de
         - **The Goal:** The user wants a self-sufficient platform where he can find other people who are searching for flatmates. Instead of having to post in reddit or facebook, the user wants a specific app where he can update all his living preferences and budget and get/find a good match for him.
   
 3. Apartment sublease software
-     - **End User 3:** The target user is an international student of NYU.
-     - **The Problem:** Since his apartment contract is one year, he needs to sublet the apartment to avoid losses when he returns to China. He can only release sublease information through apartment intermediaries and social media, which leads to that he needs to pay a lot of intermediary fees to the intermediary, or he needs to wait for people who see social media to contact him.
+    - **End user 3 / Problem:** 
+        - **The stakeholder / Problem:** The target user is an international student(David Zhang) of NYU. Since his apartment contract is one year, he needs to sublet the apartment to avoid losses when he returns to China. He can only release sublease information through apartment intermediaries and social media, which leads to that he needs to pay a lot of intermediary fees to the intermediary, or he needs to wait for people who see social media to contact him.
 
    - **The Goal:** Target users want a software for international students to rent apartments and sublet apartment.
 
 
 4. Used furniture resale software
-   - **End User 4:** The target user is an international student of NYU.
-
-   - **The Problems:** He moves apartment once a year, and there is no furniture in the newly moved apartment, so he needs to buy new or second-hand furniture. He has to add a lot of group chats on social media because there are many international students selling used furniture in group chats.
+   - **End user 4 / Problem:** 
+        - **The stakeholder / Problem:** The target user is an international student(Ethan Sun) of NYU. He moves apartment once a year, and there is no furniture in the newly moved apartment, so he needs to buy new or second-hand furniture. He has to add a lot of group chats on social media because there are many international students selling used furniture in group chats.
 
    - **The Goal:** Target users want a software for international students to buy or sell second-hand furniture. He hopes that the software will also provide any second-hand items for sale other than furniture.
 
