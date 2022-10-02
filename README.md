@@ -20,7 +20,7 @@ A little exercise to get started with the specification phase of the software de
   
 2.  Rental/flat sharing/sublettling platform
     - **End user 2 / Problem:**
-        - **The stakeholder / Problem:** the end user is an international student who is struggling to find a suitable flatmate. He is a master's student looking for a flatmate under certain budget and some living preferences.
+        - **The stakeholder / Problem:** the end user (Cavin Nunes) is an international student who is struggling to find a suitable flatmate. He is a master's student looking for a flatmate under certain budget and some living preferences.
 
         - **The Goal:** The user wants a self-sufficient platform where he can find other people who are searching for flatmates. Instead of having to post in reddit or facebook, the user wants a specific app where he can update all his living preferences and budget and get/find a good match for him.
   
@@ -40,7 +40,7 @@ A little exercise to get started with the specification phase of the software de
 
 5.  Study away student guide
     - **End user 5 / Problem:**
-        - **The stakeholder / Problem:** the end user is a study away student from NYU Abu Dhabi who's currently in New York for the study away semester and is willing to meet people from his country Gambia. It is difficult for him to connect to any students who are also from Gambia and are studying in NYU, NY.
+        - **The stakeholder / Problem:** the end user is a study away student (Amadou Bah) from NYU Abu Dhabi who's currently in New York for the study away semester and is willing to meet people from his country Gambia. It is difficult for him to connect to any students who are also from Gambia and are studying in NYU, NY.
 
         - **The Goal:** The user wants an app or a web based platform that can help study away students connect to other people, mainly from their countries of orign or where they have lived most of their lives.
 
