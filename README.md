@@ -60,7 +60,7 @@ Our program is dedicated to providing an integrated solution to the major challe
 7. As a college Freshman, I don't know anyone going to my school, so I want a safe, reliable platform that shows available apartments and potential roommates in the area.
 8. As a graduating college student moving back home, I want to be able to sell my furniture to other college students in a reliable and streamlined way, not through Facebook Marketplace.
 9. As a college student who needs to find roommates for my apartment or who needs to find an existing apartment with roommates, I want to be able to advertise my personal information and perference so that my future roommates who share similar perferences will be able to contact with me.
-
+10. As a college student studying abroad, I want to be able to sell unnecessary furniture to other students for extra cash to use while I travel!
 
 ## Activity Diagrams
 ### User Story 9:
